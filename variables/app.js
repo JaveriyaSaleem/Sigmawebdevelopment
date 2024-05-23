@@ -6,3 +6,11 @@ let student = {
     studentAge: "19"
 
 }
+console.log(student.studentName); //that's how we call let having multiple value
+let arr = ["bat","ball","football","pencil","market"]
+console.log(arr[2]); //that's how we call array
+// they are object
+// updating let 
+student.favSubject = "Drawing";
+console.log(student); //updation made 
+console.log(arr[3,4])
