@@ -13,4 +13,4 @@ console.log(arr[2]); //that's how we call array
 // updating let 
 student.favSubject = "Drawing";
 console.log(student); //updation made 
-console.log(arr[3,4])
+console.log(arr[2,3]); //only one working
